@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "crack-future-342521",
+  "private_key_id": "c869fc9618fb242c285dc79921b6278fd0ae2480",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCwzR/52hNoyubg\nzKDgkpNdBwDwh/0J3DmU/DWp7Tnb/XtHMj8wk1CcC8fhgD/YhUtl/BrprOsqv/f+\nQTuCsVhh+B6n1dzd4PK+LwcB6ln450QpmvjRhqTNgKZSSOHnVy6YRgK3ZWhVHK2V\n3V+tKwprUGm8keoiDBaztv9lAgdpDMoOzXagrbfPnFCTaJ5pDEi0Tw9/68Ych92W\nJWFB9GZqaKme1EPzyvyDpbOzpKovpk4inrR2gWOAfDkc85H5B7ijh45dkX8JHhwI\n5xWEGbrNlPJifZNAp2PXrvm/KmOtEMQHBT2m9m+13cjDQgnSGA2Eq5nCVzOcvYrt\nSCPt/Mn1AgMBAAECggEAKMMWNvboKC41lkkfYz9wAc/yT8JunMYdMYQHhFa5EwcJ\nU+QaDQM938hYjF1S+wLaXBhIhS0UqA3L6Z8VDx//ulCoErZ8PlyVYrM5eJ/VIA2D\n2drMuJQELYwWbJy4lqtzRvDHQgy7hfn/bHC2VRi6BX1r72mt0y0507PihKF332hM\nEIG4Uzeq1pAlrdi7xo06CbI2J7oZGkXYE6GrokRmBWBuI8wlXjAbdWiX8XX0BTtF\nMe6axaY3LMzfpbKOSJkZBO698EfZjeOL2gNLPZURENnsx4JXyiyir090mnftXEtM\noz8VNiEUXIjBr7crDDTrI2WtV+PzQ0lGbNB8yOJTAQKBgQD18deVJUyuk4Inn9SA\nQFY7EWTO92Q/mEmrXaTSX9QTZa/0TlAIT8NPAKZ2/Ft9hGZMAiKfPFK7K3vnsPdD\ntmc5Jj7ypEVseSkHPqdiCVqcCjJAYvZPRBq/o4HJV5orQAN95Z/uBoTvc4+jlkpN\nJs8A3f2z+PY9MekeEWimPoMJAQKBgQC4B5lwpQUleW9dbWgU50qFSXy7lKs1rTlZ\nT+rDYZ6bJ+MNUcyhbUWHY+6DU/cZoXTalVvd/WEclYkBEvcVXB1xt/xUh7sKoiKa\nKGJeut2BIB8fEWNeDXWfdwrx8lHAV0CaX37YKypP6lHebo9DihLw+EdJ3J7l9BYS\nBOFMRAks9QKBgBo6YUAxixzu9ClfnRzUP53q+/IqZdF2XxzcTrB0sbwj0wDdvSE1\nyGFLc3Uq8mLPVM10SNbsavI07/DEaYoaEKYCkyHzLMgln597KgSFdNlBKRy+sP/B\nBo07VaLwKavFFto9O7H5lgGnNEFAzMmvgtHX2q9vtGrQQMkJGDzqW7UBAoGAElBf\nSsCBZJtTI98RbpMd7WnEyf4fk7XrcSHs4QjD+fjcNaUgUihHtROS1uryOlDBCke2\n3r6qfWe8PKkggbWrEHgY2mivin1cKC9AquC5znHd5v+Z/fAk9nuoUS+mRxfny/UY\n8HZLPay5/QLPqw8Al459ubIE9il2UNC/gxF6QEkCgYBZ8OM8kGSwXNM2Trx58DT1\n8Lg4UiKjp8Qp/CoDWVyI9uCoLUUAyfyqWJgJQtX2TDgz4YT4KwGxnthtnw/sQrsj\nuANqg1eQ3aMHVNshpR/MH+rxlix1pIg2jVmfVkQLbvQiBoN63LnKBDnwotss7NKq\n8Vt43gmSGxDJMRVW8eU3gA==\n-----END PRIVATE KEY-----\n",
+  "client_email": "project2-bond@crack-future-342521.iam.gserviceaccount.com",
+  "client_id": "115149667327865967357",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/project2-bond%40crack-future-342521.iam.gserviceaccount.com"
+}
